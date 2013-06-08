@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://yaobin.github.io/sitemap.xml 
+Sitemap: http://yaobin.github.io/blog/sitemap.xml 
