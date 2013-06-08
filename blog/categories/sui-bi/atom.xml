@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[我的博客]]></title>
-  <link href="http://yaobin.github.io/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 随笔 | 我的博客]]></title>
+  <link href="http://yaobin.github.io/blog/blog/categories/sui-bi/atom.xml" rel="self"/>
   <link href="http://yaobin.github.io/blog/"/>
   <updated>2013-06-08T18:03:16+08:00</updated>
   <id>http://yaobin.github.io/blog/</id>
